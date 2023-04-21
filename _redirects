@@ -1,3 +1,4 @@
+# On redirige les liens fictifs vers les vraies pages
 /                   /index.html             200
 /product            /pages/product.html     200
 /about              /pages/about.html       200
